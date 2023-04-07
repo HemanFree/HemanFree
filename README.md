@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=HemanFree&style=plastic&color=blueviolet)
+
 ### Hi there 👋
 
 I'm Himanshu Dhanraj Fukat 
